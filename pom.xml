@@ -5,12 +5,12 @@
     <parent>
         <artifactId>sola-admin-main</artifactId>
         <groupId>org.fao.sola.admin</groupId>
-        <version>1504a</version>
+        <version>0.1-1706</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <groupId>org.fao.sola.admin.common</groupId>
     <artifactId>sola-admin-messaging</artifactId>
-    <version>1504a</version>
+    <version>0.1-1706</version>
     <packaging>jar</packaging>
 
     <name>Common Admin Messaging</name>
